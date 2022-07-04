@@ -1,5 +1,6 @@
 body {
     font-family: 'Fira Sans Condensed', sans-serif;
+    margin: 0;
 }
 
 span {
@@ -42,4 +43,15 @@ section {
     border-radius: 40px;
     font-size: 25px;
     font-weight: 700;
+}
+
+#about {
+    margin-top: 10%;
+    margin-right: 5%;
+}
+
+.second {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
