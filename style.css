@@ -1,0 +1,45 @@
+body {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+span {
+    color: orange;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    color: #555555;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 400;
+    color: grey;
+    margin-bottom: 10%;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.half img {
+    width: 800px;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 20px 40px;
+    background-image: linear-gradient(70deg, orange, red);
+    opacity: 70%;
+    color: white;
+    border-radius: 40px;
+    font-size: 25px;
+    font-weight: 700;
+}
