@@ -13,6 +13,12 @@ h1 {
     color: #555555;
 }
 
+h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #555555;
+}
+
 p {
     font-size: 30px;
     font-weight: 400;
@@ -20,7 +26,7 @@ p {
     margin-bottom: 10%;
 }
 
-section {
+.flexibal {
     display: flex;
 }
 
@@ -54,4 +60,8 @@ section {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.recipies {
+    text-align: center;
 }
